@@ -1,5 +1,5 @@
 import pandas as pd
-data = pd.read_excel('C:\\Users\\khush\\Downloads\\task2.csv')
+data = pd.read_excel('C:\\Users\\khushi\\Downloads\\task2.csv')
 
 # Display the first few rows of the DataFrame
 print("First few rows of the DataFrame:")
